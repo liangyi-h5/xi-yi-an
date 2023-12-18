@@ -1,7 +1,8 @@
 
 
+require('dotenv').config()
 module.exports = {
-  base: '/xi-yi-an',
+  base: process.env.Base_Url ? process.env.Base_Url : '/xi-yi-an',
   title: 'Hello VitePress',
   description: 'Just playing around.',
   lastUpdated: true,
