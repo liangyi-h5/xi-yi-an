@@ -1,0 +1,17 @@
+.DS_Store
+node_modules
+dist
+cache
+# local env files
+.env
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+*.heapsnapshot
+
