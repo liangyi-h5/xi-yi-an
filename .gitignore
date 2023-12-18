@@ -3,6 +3,7 @@ node_modules
 cache
 # local env files
 .env
+docs
 
 # Editor directories and files
 .idea
