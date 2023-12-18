@@ -1,7 +1,6 @@
 
 
 module.exports = {
-  outDir: '../dist',
   base: '/xi-yi-an',
   title: 'Hello VitePress',
   description: 'Just playing around.',
